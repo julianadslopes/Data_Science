@@ -1,2 +1,2 @@
-# Data_Analytics
-Repositório de projetos de Análise de Dados
+# Data_Science_Analytics
+Repositório de projetos em Data Science & Analytics.
