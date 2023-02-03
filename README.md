@@ -5,7 +5,7 @@
 </p>
 
 # Bruno Bonatini
-<sub>*Data Scientist* and Analytics</sub>
+<sub>*Data Scientist* and Analyst</sub>
 
 <p>"Sou um Data Scientist Junior apaixonado por transformar dados em insights valiosos para a empresa. Com minhas habilidades em estatística, programação e tecnologia de dados, trabalho na coleta, processamento e análise de grandes quantidades de informações. Estou sempre em constante aprendizado e desenvolvimento para aprimorar minhas habilidades e me tornar um profissional de destaque em minha área."</p>
 
