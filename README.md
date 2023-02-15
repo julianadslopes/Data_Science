@@ -4,12 +4,14 @@
   <img src="banner.png" >
 </p>
 
-# Bruno Bonatini
+# Bruno Spagnol Bonatini
 <sub>*Data Scientist* and Analyst</sub>
 
-<p>"Sou um Data Scientist Junior apaixonado por transformar dados em insights valiosos para a empresa. Com minhas habilidades em estatística, programação e tecnologia de dados, trabalho na coleta, processamento e análise de grandes quantidades de informações. Estou sempre em constante aprendizado e desenvolvimento para aprimorar minhas habilidades e me tornar um profissional de destaque em minha área."</p>
+<p>Sou um Data Scientist apaixonado por transformar dados em insights valiosos para a empresa. Com minhas habilidades em estatística, programação e tecnologia, trabalho na coleta, processamento e análise de grandes quantidades de dados. Estou sempre em constante aprendizado e desenvolvimento para aprimorar minhas habilidades e me tornar um profissional de destaque em minha área.</p>
 
-**Background in:** Python, SQL, Power BI, Analytics and Machine Learning.
+<p>- Graduação em Sistemas de Informação pela Universade de Mogi das Cruzes</p>
+
+**Background in:** Python, SQL, Power BI, Analytics and Machine Learning
 
 **Links:**
 * [LinkedIn](https://linkedin.com/in/bsbonatini/)
@@ -20,5 +22,6 @@
 ## Projetos:
 Veja os tutoriais publicados do Bruno:
 
+* Análise dos Dados do Airbnb para a cidade de Los Angeles - Califórnia: https://tinyurl.com/k42zb7y8
 ---
 
