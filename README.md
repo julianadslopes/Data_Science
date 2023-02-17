@@ -22,6 +22,6 @@
 ## Projetos:
 Veja os tutoriais publicados do Bruno:
 
-* Análise dos Dados do Airbnb para a cidade de Los Angeles - Califórnia: https://tinyurl.com/k42zb7y8
+* Análise dos Dados do Airbnb para a cidade de Los Angeles - Califórnia:
 ---
 
