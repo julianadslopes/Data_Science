@@ -16,3 +16,5 @@ Com a análise exploratória dos dados eu consegui tirar os seguinte insights:
 * Visualização gráfica de um mapa onde podemos analisar por longitude e latitude quais são os pontos de maior hospedagem.
 
 Este projeto me fez conhecer mais a fundo a cidade de Los Angeles devido à pesquisas, também servirá como base à quem um dia deseja conhecer a cidade e também será usado para que eu me programe futuramente para fazer uma viagem.
+
+Segue o link com o projeto completo: https://shre.ink/cIsS
