@@ -18,3 +18,4 @@ Com a análise exploratória dos dados eu consegui tirar os seguinte insights:
 Este projeto me fez conhecer mais a fundo a cidade de Los Angeles devido à pesquisas, também servirá como base à quem um dia deseja conhecer a cidade e também será usado para que eu me programe futuramente para fazer uma viagem.
 
 Segue o link com o projeto completo: https://shre.ink/cIsS
+Link referente ao artigo do projeto: https://shre.ink/ch8f
