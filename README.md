@@ -23,6 +23,6 @@
 Veja os tutoriais publicados do Bruno:
 
 * Análise dos Dados do Airbnb para a cidade de Los Angeles - Califórnia: https://shre.ink/cIsS
-* Panorama da COVID-19 no Brasil e no Mundo - https://shre.ink/clhM
+* Panorama da COVID-19 no Brasil e no Mundo - https://shre.ink/csy9
 ---
 
