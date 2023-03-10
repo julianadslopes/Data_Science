@@ -17,6 +17,6 @@ Foram extraídos insights de grande importância baseado nos casos de infeccçõ
 * Quantidade de pessoas que tomaram ao menos uma dose da vacina no Brasil;
 * Qual a relação entre os casos totais e mortes totais no Brasil.
 
-A grande dificuldade deste projeto foi trabalhar com um dataset imenso, com uma grande quantidade de dados e variáveis, dados atualizados toda semana desde 2020. Isso fez com que eu desenvolsse a habilidade de lidar com um volume grande de dados e assim melhorar cada vez mais as minha análises futuramente.
+A grande dificuldade deste projeto foi trabalhar com um dataset imenso, com uma grande quantidade de dados e variáveis, dados atualizados toda semana desde 2020. Isso fez com que eu desenvolvesse a habilidade de lidar com um volume grande de dados e assim melhorar cada vez mais as minha análises futuramente.
 
 Segue o link do projeto completo: https://shre.ink/csy9
