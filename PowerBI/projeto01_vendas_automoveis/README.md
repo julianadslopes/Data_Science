@@ -22,8 +22,11 @@ Sua fonte de dados é um arquivo Excel com dados coletados do sistema de vendas 
 
 Seu gerente precisa das seguintes informações:
 1- Total de Vendas por Ano
+
 2- Custo de Entrega do Veículo Por Fabricante
+
 3- Custo de Mão de Obra Por Estado
+
 4- Total de Vendas Geral e Matriz de Vendas
 
 Além disso, pode ser interessante, se o CEO puder visualizar o total de vendas por estado e se as vendas estão acima ou abaixo da média. 
