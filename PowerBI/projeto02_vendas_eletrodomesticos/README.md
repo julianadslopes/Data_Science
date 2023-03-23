@@ -1,4 +1,4 @@
-Estudo de caso:
+# Estudo de caso:
 
 Você é Analista de Dados uma rede de varejo que vende produtos eletrônicos e eletrodomésticos com lojas espalhadas por diversas cidades do Brasil. 
 
