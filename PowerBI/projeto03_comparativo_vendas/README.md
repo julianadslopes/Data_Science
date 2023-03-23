@@ -8,7 +8,7 @@
 
 Link dos dashboards:
 
-https://shre.ink/kyGh
+https://shre.ink/kyXr
 
 https://shre.ink/kyXt
 
