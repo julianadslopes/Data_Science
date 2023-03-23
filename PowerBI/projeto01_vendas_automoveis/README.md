@@ -21,6 +21,7 @@ Sua fonte de dados é um arquivo Excel com dados coletados do sistema de vendas 
 * Ano - Ano de fabricação do veículo
 
 Seu gerente precisa das seguintes informações:
+
 1- Total de Vendas por Ano
 
 2- Custo de Entrega do Veículo Por Fabricante
