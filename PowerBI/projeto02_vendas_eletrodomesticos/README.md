@@ -45,4 +45,6 @@ Perguntas a serem respondidas:
 
 4- Qual segmento tem maior influência no valor médio de venda?
 
-As respostas para as perguntas encontram-se no dashboard criado no projeto.
+Link do dashboard:
+
+https://shre.ink/kyzK
