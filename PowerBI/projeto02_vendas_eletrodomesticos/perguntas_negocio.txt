@@ -1,13 +1,12 @@
-
-# Crie um Dashboard no Power BI que responda a estas perguntas:
-
-
 1- Qual dos fabricantes dos produtos vendidos, apresenta melhor desempenho nas vendas?
 Brastemp - Total de vendas: 99.208,30
 
 2- Qual o total de vendas por estado e por categoria? Use um mapa.
 
-3- Qual o total de vendas por segmento? 
+3- Qual o total de vendas por segmento?
+Doméstico - 258.57 mil
+Corporativo - 89.95 mil
+Industrial - 12.56 mil
 
 4- Qual segmento tem maior influência no valor médio de venda?
 Segmento Doméstico
