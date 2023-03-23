@@ -1,4 +1,4 @@
-Você é Analista de Dados na empresa XYZ Corporation International, uma revendedora de automóveis de luxo com sede em São Paulo. 
+Você é Analista de Dados em uma empresa revendedora de automóveis de luxo com sede em São Paulo. 
 
 A empresa começou sua operação no Brasil em 2016 e atua nos quatro estados da região sudeste, mais os estados do Paraná e Bahia.
 
