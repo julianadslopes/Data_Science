@@ -2,7 +2,7 @@
 
 * Modelagem de dados
 * Análise de dados
-* Criação de Dashnoards
+* Criação de Dashboards
 * Power Query
 * Linguagem M
 * DAX
