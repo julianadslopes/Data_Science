@@ -45,6 +45,8 @@ Perguntas a serem respondidas:
 
 4- Qual segmento tem maior influência no valor médio de venda?
 
+Estudo de caso retirado do Curso da Data Science Academy juntamente com os dados do projeto.
+
 Link do dashboard:
 
 https://shre.ink/kyzK
