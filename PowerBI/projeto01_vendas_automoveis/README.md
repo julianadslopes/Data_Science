@@ -36,6 +36,8 @@ Além disso, pode ser interessante, se o CEO puder visualizar o total de vendas 
 
 Seu gerente já sabe que um assunto será abordado pelo CEO durante a apresentação. O CEO está avaliando se continua ou não com a venda de automóveis da marca Jaguar e ele gostaria de saber como evoluíram as vendas de automóveis deste fabricante por ano e por estado.
 
+Estudo de caso retirado do Curso da Data Science Academy juntamente com os dados do projeto.
+
 Link do dashboard:
 
 https://shre.ink/kyGs
