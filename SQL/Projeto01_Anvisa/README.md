@@ -6,3 +6,6 @@ igual a 3000?
 * Quais embarcações têm classificação de risco A ou B ou índice de conformidade maior que 90%?
 * Quais embarcações têm classificação de risco A ou pontuação de risco igual a 0?
 * Quais embarcações foram inspecionadas em Março de 2015 em que o índice de conformidade é maior que 90?
+
+Fonte de Dados:
+https://dados.gov.br/dados/conjuntos-dados/dados-abertos-de-inspecao-em-navios-de-cruzeiro

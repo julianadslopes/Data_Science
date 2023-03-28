@@ -6,6 +6,8 @@
 
 * Criar um dashboard para comparar a quantidade vendida em relação a quantidade produzida de um produto.
 
+Os dados foram retirados do Curso da Data Science Academy.
+
 Link dos dashboards:
 
 https://shre.ink/kyXr
